@@ -29,10 +29,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TechZBots"
+                text="📣 Updates Channel", url="https://t.me/AviaxOfficial"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TechZBots_Support"
+                text="💬 Support Group", url="https://t.me/AviaxSupport"
             ),                       
         ],        
     ]
@@ -51,10 +51,10 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TechZBots"
+                text="📣 Updates Channel", url="https://t.me/AviaxOfficial"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TechZBots_Support"
+                text="💬 Support Group", url="https://t.me/AviaxSupport"
             ),                       
         ],        
     ]
@@ -74,7 +74,7 @@ COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
                 text="Play Commands", callback_data="play_cmd"
             ),            
             InlineKeyboardButton(
-                text="Extra Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
+                text="Extra Commands", url="https://telegra.ph/Aviax-Music-Help-Commands-05-16"
             ),                                   
         ],
         [
@@ -102,12 +102,12 @@ COMMANDS_BUTTON_SUDO = InlineKeyboardMarkup(
                 text="Play Commands", callback_data="play_cmd"
             ),
             InlineKeyboardButton(
-                text="Sudo Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13"
+                text="Sudo Commands", url="https://telegra.ph/Aviax-Sudo-cmds-05-16"
             ),            
         ],
         [
             InlineKeyboardButton(
-                text="Extra Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
+                text="Extra Commands", url="https://telegra.ph/Aviax-Music-Help-Commands-05-16"
             ),                                   
         ],
         [
@@ -136,7 +136,7 @@ BACK_BUTTON = InlineKeyboardMarkup(
 SUDO_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="Sudo Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13"
+                text="Sudo Commands", url="https://telegra.ph/Aviax-Sudo-cmds-05-16"
             ),                        
         ],
         [
